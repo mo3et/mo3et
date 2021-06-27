@@ -1,5 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Hi 这里是和歌忘忧 
+## Hi This is Monet Lee
 
+![Mo3et Moe Counter](https://count.getloli.com/get/@mo3et?theme=gelbooru)
 <!--
 **Mo3et/Mo3et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
