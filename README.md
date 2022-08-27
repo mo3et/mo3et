@@ -7,9 +7,7 @@
 <!-- repo:https://github.com/journey-ad/Moe-counter -->
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo3et&hide=php)
-<!-- &hide=javascript,html,css -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo3et&hide=php,css)<!-- &hide=javascript,html,css -->
 ![Mo3et's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo3et&count_private=true&show_icons=true&theme=tokyonight)
 
 <!-- repo:https://github.com/anuraghazra/github-readme-stats -->
