@@ -8,7 +8,7 @@
 ---
 
 ![Mo3et's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo3et&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo3et&hide=php,javascript,html,css,ejs,java)<!-- &hide=javascript,html,css -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo3et&hide=php,javascript,html,css,ejs,java)<!-- &hide=javascript,html,css, -->
 
 
 <!-- repo:https://github.com/anuraghazra/github-readme-stats -->
