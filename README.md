@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 ### Hi 这里是和歌忘忧 
-### Hi this is Monet
+### Monet here! 
 
 ---
 ![Mo3et Moe Counter](https://count.getloli.com/get/@mo3et?theme=gelbooru)
