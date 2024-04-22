@@ -9,13 +9,13 @@
 
 <img title="HHKB" alt="HHKB" src="static/img/keyboard/hhkb.jpg" alt="" width=49%> <img title="Filco Majestouch 2 TKL with Bilibili keycaps" src="static/img/keyboard/Filco_TKL_with_bilibili_keycaps.jpg" alt="Filco Majestouch 2 TKL with Bilibili keycaps" width=49%>
 
-<img title="65Less" alt="65Less" src="static/img/keyboard/65less.jpg" alt="" width=49% height=332px> <img title="Corne & trackpad" alt="Corne & trackpad" src="static/img/keyboard/Corne_and_trackpad.jpg" width=49% height=332px>
+<img title="65Less" alt="65Less" src="static/img/keyboard/65less.jpg" alt="" width=49%> <img title="Corne & trackpad" alt="Corne & trackpad" src="static/img/keyboard/Corne_and_trackpad.jpg" width=49%>
 
 <details>
  <summary><b>More Keyboards :-)</b> </summary>
-<img title="CA66" alt="CA66" src="static/img/keyboard/CA66.jpg" alt="" width=49% height=332px> <img title="1800mini" alt="1800mini" src="static/img/keyboard/1800mini.jpg" width=49% height=332px>
+<img title="CA66" alt="CA66" src="static/img/keyboard/CA66.jpg" alt="" width=49%> <img title="1800mini" alt="1800mini" src="static/img/keyboard/1800mini.jpg" width=49%> <!-- height=332px -->
 
-<img title="IM-Plus-1.2" alt="IM-Plus-1.2" src="static/img/keyboard/Matrix_IM_Plus_high_1.2.jpg" alt="" width=49% height=332px> <img title="ow Spring" alt="ow Spring" src="static/img/keyboard/OW_Spring.jpg" width=49% height=332px>
+<img title="IM-Plus-1.2" alt="IM-Plus-1.2" src="static/img/keyboard/Matrix_IM_Plus_high_1.2.jpg" alt="" width=49% > <img title="ow Spring" alt="ow Spring" src="static/img/keyboard/OW_Spring.jpg" width=49%>
 
 </details>
 
