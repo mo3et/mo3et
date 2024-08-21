@@ -6,10 +6,12 @@
 ## I love Keyboard! ⌨️
 ### **Less is more ! 🪄**
 <img title="Less is more" alt="Less is more" src="static/img/keyboard/Less_is_more.jpg" alt="" width=98%> 
-
+<details>
+  <summary><b>My Keyboards ⌨️</b> </summary>
 <img title="HHKB" alt="HHKB" src="static/img/keyboard/hhkb.jpg" alt="" width=49%> <img title="Filco Majestouch 2 TKL with Bilibili keycaps" src="static/img/keyboard/Filco_TKL_with_bilibili_keycaps.jpg" alt="Filco Majestouch 2 TKL with Bilibili keycaps" width=49%>
 
 <img title="65Less" alt="65Less" src="static/img/keyboard/65less.jpg" alt="" width=49%> <img title="Corne & trackpad" alt="Corne & trackpad" src="static/img/keyboard/Corne_and_trackpad.jpg" width=49%>
+</details>
 
 <details>
  <summary><b>More Keyboards :-)</b> </summary>
